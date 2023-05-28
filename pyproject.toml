@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "pdfdataprocess"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["arnos-stuff <bcda0276@gmail.com>"]
 readme = "README.md"
+homepage = "https://github.com/arnos-stuff/pdf-data-process.git"
 
 [tool.poetry.dependencies]
 python = "^3.11"
